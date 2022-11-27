@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ankananimelist/static/js/main.f98a104b.js",
+    "index.html": "/ankananimelist/index.html",
+    "main.f98a104b.js.map": "/ankananimelist/static/js/main.f98a104b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f98a104b.js"
+  ]
+}
